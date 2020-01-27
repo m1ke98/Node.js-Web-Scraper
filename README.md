@@ -1,15 +1,14 @@
 # Node.js-Web-Scraper
 
 ## Prerequisites
-1. [Node.js](https://nodejs.org/en/download/)
-2. Puppeteer
-    `npm install puppeteer`
+ - [Node.js](https://nodejs.org/en/download/)
+ - Puppeteer
 
 ## Guide
 > This guide will scrape and save entry level mechanical engineering job listings in Philadelphia PA.
 
-1. Install 'Prerequisites' 
-2. Create a new directory.
-3. Copy the 'linkedin-scraper.js' file into your directory.
+1. Create a new directory. 
+2. Install Puppeteer into your directory using: `npm install puppeteer`
+3. Copy & Save the 'linkedin-scraper.js' file to your directory.
 4. Run the file using:
     `node linkedin-scraper.js`
