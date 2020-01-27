@@ -57,7 +57,7 @@ const url = 'https://www.linkedin.com/jobs/search?keywords=Mechanical%20Engineer
     fs.writeFile('jobs.json', JSON.stringify(jobListings),  (err) => {
         if (err) throw err;
         else {
-        console.log('Scrape Complete'); 
+            console.log('Scrape Complete'); 
         }
     });
 })();
