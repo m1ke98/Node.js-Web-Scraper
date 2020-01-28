@@ -2,7 +2,7 @@
 
 ## Prerequisites
  - [Node.js](https://nodejs.org/en/download/)
- - Puppeteer
+ - [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 ## Guide
 > This guide will scrape and save entry level mechanical engineering job listings in Philadelphia PA.
